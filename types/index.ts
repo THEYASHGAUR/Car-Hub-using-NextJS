@@ -11,3 +11,13 @@ export interface SearchManuFacturerProps {
     manufacturer: string;
     setManuFacturer: (manufacturer: string) => void;
 }
+
+export interface Option {
+    title: string;
+    value: string;
+}
+
+export interface CustomFilterProps {
+    title: string;
+    options: Option[];
+}
