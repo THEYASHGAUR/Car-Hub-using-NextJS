@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Set your Google Cloud project ID
-PROJECT_ID="your-project-id"
-REGION="us-central1"
-SERVICE_NAME="car-hub"
+PROJECT_ID="Anna-467611"
+REGION="europe-west1"
+SERVICE_NAME="car-hub-using-nextjs"
 
 echo "🚀 Starting deployment to Google Cloud Run..."
 
